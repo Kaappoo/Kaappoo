@@ -1,7 +1,7 @@
 ### Oi, meu nome é Kauã
 
-- 👀 Sou um desenvolvedor focado em front-end!
-- 🌱 Estou estudando Next.js
+- 👀 Sou um desenvolvedor front-end na Finger Digital
+- 🌱 Estou cursando bacharelado em Sistemas de informação 
 - 📫 Meu email é Kaua.ka373@gmail.com
 
 <div style="display: inline_block"><br>
