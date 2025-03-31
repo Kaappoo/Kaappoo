@@ -1,6 +1,6 @@
 ### Oi, meu nome é Kauã
 
-- 👀 Sou um desenvolvedor front-end na Finger Digital
+- 👀 Sou um desenvolvedor fullstack na empresa Infotera
 - 🌱 Estou cursando bacharelado em Sistemas de informação 
 - 📫 Meu email é Kaua.ka373@gmail.com
 
